@@ -8,3 +8,4 @@ This organization contains all the repos relating to the [Outer Wilds](https://s
 - The [mods website](https://github.com/ow-mods/outerwildsmods.com) is built based on information fetched from the mod database and the repository readmes from each mod.
 - The [mod manager](https://github.com/ow-mods/ow-mod-manager) downloads and installs mods using information from the mod database.
 - [OWML](https://github.com/amazingalek/OWML) loads the mods into the game. It's what actually makes mods work, so kind of a big deal. It is usually downloaded and installed by the mod manager, but can also be used manually (bypassing all this ecosystem bs if you so wish).
+- [The mod template](https://github.com/ow-mods/ow-mod-template) is a .NET project template that makes it easier to create mods.
