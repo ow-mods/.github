@@ -1,5 +1,8 @@
 # [Outer Wilds Mods](https://outerwildsmods.com)
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/ow-mod-db/update-releases.yml?label=Mod%20Database&style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/ow-mod-download-history/update-download-history.yml?label=Download%20Extractor&style=flat-square)
+
 This organization contains all the repos relating to the [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/) modding ecosystem.
 
 ## The ecosystem
