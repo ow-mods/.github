@@ -1,5 +1,7 @@
 # [Outer Wilds Mods](https://outerwildsmods.com)
 
+![Website](https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fouterwildsmods.com%2F)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/outerwildsmods.com/auto-deploy.yml?label=Website%20Workflow&style=flat-square)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/ow-mod-db/update-releases.yml?label=Mod%20Database&style=flat-square)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/ow-mod-download-history/update-download-history.yml?label=Download%20Extractor&style=flat-square)
 
