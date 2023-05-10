@@ -4,7 +4,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/outerwildsmods.com/auto-deploy.yml?label=Website%20Workflow&style=flat-square)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/ow-mod-db/update-releases.yml?label=Mod%20Database&style=flat-square)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/ow-mod-download-history/update-download-history.yml?label=Download%20Extractor&style=flat-square)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/OuterWildsBranchWatcher/main.yml?label=Branch%20Watcher&style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ow-mods/ow-branch-watcher/main.yml?label=Branch%20Watcher&style=flat-square)
 
 This organization contains all the repos relating to the [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/) modding ecosystem.
 
@@ -21,4 +21,4 @@ This organization contains all the repos relating to the [Outer Wilds](https://s
 
 ## Modding Discord Specific
 - The [weekly report generator](https://github.com/ow-mods/ow-weekly-report) generates a report every week the top 10 most downloaded mods, how many times they were downloaded in the past week, and their change in ranking from last week.
-- The [branch watcher](https://github.com/ow-mods/OuterWildsBranchWatcher) watches the Steam product information for Outer Wilds, and posts a message every time a branch is updated, added, or deleted.
+- The [branch watcher](https://github.com/ow-mods/ow-branch-watcher) watches the Steam product information for Outer Wilds, and posts a message every time a branch is updated, added, or deleted.
